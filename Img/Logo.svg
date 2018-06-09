@@ -84,31 +84,28 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <ellipse
+    <circle
        id="path3735"
-       cx="108.47915"
-       cy="150.72322"
-       rx="102.43154"
-       ry="95.627968"
-       style="stroke-width:0.26458332;fill-opacity:1;fill:#00325b">
+       cx="31.630941"
+       cy="20.440481"
+       style="fill:#00325b;fill-opacity:1;stroke-width:0.0401"
+       r="15">
       <desc
-         id="desc3739"
-         style="fill-opacity:1;fill:url(#linearGradient4552)">logo_circulo</desc>
+         id="desc3739">logo_circulo</desc>
       <title
-         id="title3737"
-         style="fill-opacity:1;fill:url(#linearGradient4552)">Circulo</title>
-    </ellipse>
+         id="title3737">Circulo</title>
+    </circle>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:104.65283966px;line-height:1.25;font-family:PRIMETIME;-inkscape-font-specification:'PRIMETIME, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.26147985"
-       x="18.529392"
-       y="188.4422"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8610878px;line-height:1.25;font-family:PRIMETIME;-inkscape-font-specification:'PRIMETIME, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.94898409"
+       x="19.700014"
+       y="25.575762"
        id="text3733"
-       transform="scale(0.96472259,1.0365674)"><tspan
+       transform="scale(0.93213335,1.0728079)"><tspan
          sodipodi:role="line"
          id="tspan3731"
-         x="18.529392"
-         y="188.4422"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:104.65283966px;font-family:PRIMETIME;-inkscape-font-specification:'PRIMETIME, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:6.26147985">GM</tspan></text>
+         x="19.700014"
+         y="25.575762"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8610878px;font-family:PRIMETIME;-inkscape-font-specification:'PRIMETIME, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.94898409">GM</tspan></text>
   </g>
 </svg>
